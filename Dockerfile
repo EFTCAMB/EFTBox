@@ -1,4 +1,4 @@
-FROM ubuntu:latest
+FROM cmbant/docker-gcc-build:gcc6
 
 MAINTAINER Marco Raveri <mraveri@sissa.it>
 
