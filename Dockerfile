@@ -1,6 +1,6 @@
 FROM cmbant/docker-gcc-build:gcc6
 
-MAINTAINER Marco Raveri <mraveri@sissa.it>
+MAINTAINER EFTCAMB <eftcamb@gmail.com>
 
 # install the initial things:
 RUN apt-get update && apt-get install -y \
